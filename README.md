@@ -26,9 +26,8 @@ Run the following command to execution. you can find more information about para
 
 Example: `python main.py y y 100 y`
 
-help:
-  `y` = yes
-  `n` = no
+notice:
+  `y` represents `yes` for that parameter and `n` stands for `no`
 
 
 if you want to run all of these configuration together use `run.sh` bash file as follows on Linux OS:
