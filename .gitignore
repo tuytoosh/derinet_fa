@@ -1,0 +1,5 @@
+.git/*
+.ipynb_checkpoints/*
+data/*
+! data/builded_dataset.txt
+! data/test_set.txt
