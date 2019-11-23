@@ -2,18 +2,18 @@
 DeriNet is a lexical network which models word-formation relations in the lexicon of Czech. Nodes of the network correspond to Czech lexemes, while edges represent derivational links (relations between derivatives and their base lexemes) or links connecting compounds with their base words.
 
 This is a Python toolbox that implements the training and testing of the approach described in our papers:
-## Building a Morphological Network for Persian on Top of a Morpheme-Segmented Lexicon
-### Hamid Haghdoost, Ebrahim Ansari, Zdeněk Žabokrtský, Mahshid Nikravesh
+### Building a Morphological Network for Persian on Top of a Morpheme-Segmented Lexicon
+Hamid Haghdoost, Ebrahim Ansari, Zdeněk Žabokrtský, Mahshid Nikravesh
 [View full pdf](https://www.aclweb.org/anthology/W19-8511.pdf)
 
 
-### what is it?
+#### what is it?
 This code implements:
 - creating derivational networks
 - evaluate trees (networks)
 - segments words based on Morfessor
 
-### Prerequisites
+#### Prerequisites
 In order to run this toolbox you will need:
 - python 3.x (tested with Python 3.7.0 on Ubuntu 18.04.3)
 - the provided dataset
