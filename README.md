@@ -9,9 +9,9 @@ Hamid Haghdoost, Ebrahim Ansari, Zdeněk Žabokrtský, Mahshid Nikravesh
 
 #### what is it?
 This code implements:
-- creating derivational networks
-- evaluate trees (networks)
-- segments words based on Morfessor
+* creating derivational networks
+* evaluate trees (networks)
+* segments words based on Morfessor
 
 #### Prerequisites
 In order to run this toolbox you will need:
