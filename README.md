@@ -38,3 +38,5 @@ if you want to run all of these configuration together use `run.sh` bash file as
 ```
 
 In other operating systems you need to write your own alternatives, for example `.bat` file in windows.
+
+finally if you have any problem with running the code, feel free to open an issue.
