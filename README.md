@@ -7,7 +7,7 @@ Hamid Haghdoost, Ebrahim Ansari, Zdeněk Žabokrtský, Mahshid Nikravesh
 
 ![A sample tree](https://github.com/tuytoosh/derinet_fa/blob/master/images/tree.jpeg)
 
-#### what is it?
+#### What is it?
 This code implements:
 * creating derivational networks
 * evaluate trees (networks)
@@ -20,11 +20,11 @@ In order to run this toolbox you will need:
 
 #### Usage
 
-run following command to run:
+run following command to run. you can find more information about parameters in detail of paper.
 
 ```python main.py $morfData $auto $count $supervised```
 
-example: `python main.py y y 100 y`
+Example: `python main.py y y 100 y`
 
 help:
   `y` = yes
