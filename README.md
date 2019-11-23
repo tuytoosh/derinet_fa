@@ -5,7 +5,7 @@ This is a Python toolbox that implements the training and testing of the approac
 #### Building a Morphological Network for Persian on Top of a Morpheme-Segmented Lexicon [View full pdf](https://www.aclweb.org/anthology/W19-8511.pdf)
 Hamid Haghdoost, Ebrahim Ansari, Zdeněk Žabokrtský, Mahshid Nikravesh
 
-
+[! A sample tree](./image/tree.jpeg)
 
 #### what is it?
 This code implements:
