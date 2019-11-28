@@ -18,6 +18,15 @@ In order to run this toolbox you will need:
 * python 3.x (tested with Python 3.7.0 on Ubuntu 18.04.3)
 * the provided dataset
 
+### Input data format
+In `providers/data.py` we have two property for input data. ‍‍`ourDataRoute` is a data that created by unsupervised Morfessor and `ourDataRoute` created by us. if you want to use your own data, modify the coressponding dataset route and formatted as follows.
+
+```
+play
+play er
+play er s
+```
+
 #### Usage
 
 Run the following command to execution. you can find more information about parameters in detail of paper.
