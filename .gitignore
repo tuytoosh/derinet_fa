@@ -3,3 +3,4 @@
 data/*
 !data/builded_dataset.txt
 !data/test_set.txt
+providers/__pycache__/*
