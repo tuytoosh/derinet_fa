@@ -48,4 +48,18 @@ if you want to run all of these configuration together use `run.sh` bash file as
 
 In other operating systems you need to write your own alternatives, for example `.bat` file in windows.
 
+#### Citation:
+If you find this code useful, please cite our paper.
+
+```
+@inproceedings{haghdoost2019building,
+  title={Building a Morphological Network for Persian on Top of a Morpheme-Segmented Lexicon},
+  author={Haghdoost, Hamid and Ansari, Ebrahim and {\v{Z}}abokrtsk{\`y}, Zden{\v{e}}k and Nikravesh, Mahshid},
+  booktitle={Proceedings of the Second International Workshop on Resources and Tools for Derivational Morphology},
+  pages={91--100},
+  year={2019}
+}
+```
+
+
 finally if you have any problem with running the code, feel free to open an issue.
